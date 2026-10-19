@@ -5,9 +5,9 @@
 	<br>
 </p>
 
-# Final update (20. Feb 2023)
+# First update(for me) (19. Oct 2026)
 
-As I have no more interest in developing this project, it comes to a conclusion. In order to remain honest about the true state of the project, I am archiving this repository.
+I have came across it, and decided to switch engines to a maintained, modern engine, while increasing performance, which I plan to do through WEBGPU.
 
 - If you wish to modify Sketchbook feel free to fork it.
 - To see if someone is currently maintaining a fork, check out the [Network Graph](https://github.com/swift502/Sketchbook/network).
@@ -95,4 +95,5 @@ Big thank you to each of the following github users for contributing to Sketchbo
 
 - [aleqsunder](https://github.com/aleqsunder)
 - [barhatsor](https://github.com/barhatsor)
+- [swift502](https://github.com/swift502)
 - [danshuri](https://github.com/danshuri)
