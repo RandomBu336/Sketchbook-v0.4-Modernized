@@ -14,8 +14,9 @@
   "main": "build/sketchbook.min.js",
   "types": "build/types/sketchbook.d.ts",
   "scripts": {
-    "dev": "webpack-dev-server --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
